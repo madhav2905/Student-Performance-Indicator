@@ -1,4 +1,4 @@
-# 🎓 Student Performance Indicator
+# 👨🏻‍🎓 Student Performance Indicator
 
 Welcome to the Student Performance Indicator Prediction repository! This project aims to predict student performance indicators based on various features such as gender, ethnicity, parental education, lunch type, and test preparation. The dataset used in this project is sourced from Kaggle and contains information on math, reading, and writing scores.
 
