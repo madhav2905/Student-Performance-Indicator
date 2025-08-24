@@ -20,7 +20,7 @@ class DataIngestion:
         logger.info("Entered in the data ingestion component")
 
         try: 
-            df=pd.read_csv('notebooks/data/StudentsPerformance.csv')
+            df=pd.read_csv('data/StudentsPerformance.csv')
             logger.info("Read the dataset as dataframe")
 
             os.makedirs(os.path.dirname(self.config.raw_data_path),exist_ok=True)
